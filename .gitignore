@@ -1,0 +1,14 @@
+__pycache__/
+pretrained_model/D_ep_82.pth
+pretrained_model/D_optim_ep_82.pth
+pretrained_model/G_ema_ep_82.pth
+pretrained_model/G_ep_82.pth
+pretrained_model/G_optim_ep_82.pth
+pretrained_model/state_dict_ep_82.pth
+pretrained_model1/D_ep_127.pth
+pretrained_model1/D_optim_ep_127.pth
+pretrained_model1/G_ema_ep_127.pth
+pretrained_model1/G_ep_127.pth
+pretrained_model1/G_optim_ep_127.pth
+pretrained_model1/state_dict_ep_127.pth
+
